@@ -10,7 +10,7 @@ Set your vault location appropriately and finally you'll end up with a file call
 
 You'll probably need to `chmod +x` the linkCount.sh file, and then you're set \m/
 
-##Todo
+## Todo
 * place above setup stuff in a .gitignore file
 * remove the .md from the files
 * create setup sequence (for storing presets)
