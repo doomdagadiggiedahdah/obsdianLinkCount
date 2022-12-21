@@ -15,3 +15,5 @@ You'll probably need to `chmod +x` the linkCount.sh file, and then you're set \m
 * remove the .md from the files
 * create setup sequence (for storing presets)
 * maybe find out how to put this in a plugin for the community store
+- header info that says, "there are a total of ## notes with a - b number of links"
+	- a - b == the upper / lower bounds you asked for
